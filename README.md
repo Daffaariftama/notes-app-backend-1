@@ -8,7 +8,7 @@ This repository is the Capstone Project in [Bangkit Academy](https://grow.google
  [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)<br>
  
 ## Demo Video 
-[![IMAGE ALT TEXT HERE]![](media/Frame_106.png)](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing)
+[![IMAGE ALT TEXT HERE]![](media/Frame_106.png)](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing)]
 
 ## Our Team
 | Name                            | Bangkit-ID    | Path               |
