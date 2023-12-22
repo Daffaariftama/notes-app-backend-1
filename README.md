@@ -4,11 +4,11 @@
 
 #### Take You To The Next Level
 
-This repository is the Capstone Project in [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) 2023. This application is purpose to help user to report an act of violence or bullying.<br><br>
- [![Platform](![](media/Frame_106.png))](http://developer.android.com/index.html)<br>
+This repository is the Capstone Project in [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) 2022. This application is purpose to help user to get hotel recommendations.<br><br>
+ [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)<br>
  
 ## Demo Video 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cvlKvAMvqIY/0.jpg)]([[https://www.youtube.com/watch?v=cvlKvAMvqIY](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing)](https://github.com/EduSafety?tab=overview&from=2023-11-01&to=2023-11-30))
+[![IMAGE ALT TEXT HERE]![](media/Frame_106.png)](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing)
 
 ## Our Team
 | Name                            | Bangkit-ID    | Path               |
@@ -18,7 +18,7 @@ This repository is the Capstone Project in [Bangkit Academy](https://grow.google
 | Arief Khoirul Anwar             | M658BSY1552   | Machine Learning   |
 | Ahmad Algifari                  | C156BSY3278   | Cloud Computing    |
 | Laila Amanda Fitria             | C156BSX3216   | Cloud Computing    |
-| Muhamad Daffa Ariftama          | A156BSY2130   | Cloud Computing    |
+| Muhamad Daffa Ariftama          | A156BSY2130   | Mobile Development |
 | Rizki Nugroho                   | A182BSY2323   | Mobile Development |
 
 
