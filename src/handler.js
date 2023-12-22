@@ -4,7 +4,7 @@ const {nanoid} = require('nanoid');
 const addNotes = (request, h) => {
     const {title, body,tags} = request.payload;
     const id = nanoid(16);
-    const createdAt = new Date().toLocaleString('en-US', {
+    const createdAt = new Date().toLocaleString('en-USz', {
         year: 'numeric',
         month: 'long',
         day: 'numeric',
