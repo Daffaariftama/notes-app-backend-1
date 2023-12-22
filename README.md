@@ -54,7 +54,7 @@ Clone the repository on your machine. Open the project on your IDE and run it.
 ## 📸 Screenshots
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![](media/dark/splash.jpg) | ![](media/dark/survey.jpg) | ![](media/dark/home.jpg) |
+| ![](media/screenshot/1.png) | ![](media/screenshot/2.png) | ![](media/dark/home.jpg) |
 | ![](media/dark/explore.jpg) | ![](media/dark/setting.jpg) | ![](media/dark/search.jpg) |
 | ![](media/dark/detail.jpg) | ![](media/dark/facility.jpg) | ![](media/light/home.jpg) |
 
