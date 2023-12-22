@@ -8,7 +8,7 @@ This repository is the Capstone Project in [Bangkit Academy](https://grow.google
  [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)<br>
  
 ## Demo Video 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cvlKvAMvqIY/0.jpg)]([https://www.youtube.com/watch?v=cvlKvAMvqIY](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cvlKvAMvqIY/0.jpg)]([[https://www.youtube.com/watch?v=cvlKvAMvqIY](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing)](https://github.com/EduSafety?tab=overview&from=2023-11-01&to=2023-11-30))
 
 ## Our Team
 | Name                            | Bangkit-ID    | Path               |
@@ -39,43 +39,17 @@ This repository is the Capstone Project in [Bangkit Academy](https://grow.google
   - Install the APK
 
 ## Usage
-- How to get hotel recommendations from user personalized
+- How to report bullying and violence
   - Open App
-  - On survey page, choose your interest
-  - In the Home Screen, "Hotel For You" Section is the recommendations.
-
-- How to get Hotel ranking by general
-  - Open App
-  - In the Home Screen, "Best Pick" Section is the hotel ranking.
-
-- How to find hotel
-  - Open App
-  - In the Home Screen, Click "Search View" fill keyword.
-  - The result will show.
-
-- How to share hotel
-  - Open App
-  - In the Home Screen, click hotel you want to share.
-  - In the detail screen, click share button.
-  - Share to your friend.
+  - Login/Register
+  - In the Home Screen, click the plus icon and fill in all fields correctly.
 
 ## Setup
 Clone the repository on your machine. Open the project on your IDE and run it.
 
 ## About
-- Hotel Recommendation Based on Your Personalized
-- Hotel Best Pick
-- Explore Hotels
-- Clean and Simple Material UI
-- Light Mode and Dark Mode 🌗
-
-## MAD Score
-
-![](media/mad_score.png)
-
-Full details of MAD Score:
-- [MAD Score](https://madscorecard.withgoogle.com/scorecards/863589300/)
-
+- Report Violence and Bullying
+- Worst Leaderboard University
 
 ## 📸 Screenshots
 ||||
@@ -109,6 +83,5 @@ This app uses [***MVVM (Model View View-Model)***](https://developer.android.com
 
 ## Contact
 Visit:
-- [gonexwind git's](https://github.com/gonexwind)
-- [Hencya git's](https://github.com/Hencya)
-- [Thoriq-ha git's](https://github.com/Thoriq-ha)
+- [Daffa git's](https://github.com/daffaariftama)
+- [Rizki git's](https://github.com/sinugrepo)
