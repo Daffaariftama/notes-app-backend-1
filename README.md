@@ -1,28 +1,26 @@
 ![](media/logo.png)
 
-# **Next Hotel** 
+# **Edu Safety** 
 
 #### Take You To The Next Level
 
-This repository is the Capstone Project in [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) 2022. This application is purpose to help user to get hotel recommendations.<br><br>
+This repository is the Capstone Project in [Bangkit Academy](https://grow.google/intl/id_id/bangkit/) 2023. This application is purpose to help user to report an act of violence or bullying.<br><br>
  [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html)<br>
  
 ## Demo Video 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cvlKvAMvqIY/0.jpg)](https://www.youtube.com/watch?v=cvlKvAMvqIY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cvlKvAMvqIY/0.jpg)]([https://www.youtube.com/watch?v=cvlKvAMvqIY](https://drive.google.com/file/d/1RLlM7h8_eyaFOyGvSXGUZ13e0wtaAIUO/view?usp=sharing))
 
 ## Our Team
 | Name                            | Bangkit-ID    | Path               |
 | -------------                   | ------------- | -------------      |
-| Abu Davi                        | M2002G0034    | Machine Learning   |
-| Christell James Cellose         | M2003F0139    | Machine Learning   |
-| Fatiha Agyal Shahwiya           | M2002G0032    | Machine Learning   |
-| Muhammad Gusanwa Akbar          | M2441W3035    | Machine Learning   |
-| Alvi Geovanny                   | C2213F1976    | Cloud Computing    |
-| Fajar Fitrianto                 | C7194F1847    | Cloud Computing    |
-| Kelvin                          | C2213G1975    | Cloud Computing    |
-| Faiz Rofi Hencya                | A2012F1244    | Mobile Development |
-| Fikky Ardianto                  | A7355G2901    | Mobile Development |
-| Thoriq Harizul Ahsan            | A2441W3032    | Mobile Development |
+| Alya Zahra Siknun               | M001BSX1862   | Machine Learning   |
+| Di Muhammad Zulfa Ridha         | M322BSY1162   | Machine Learning   |
+| Arief Khoirul Anwar             | M658BSY1552   | Machine Learning   |
+| Ahmad Algifari                  | C156BSY3278   | Cloud Computing    |
+| Laila Amanda Fitria             | C156BSX3216   | Cloud Computing    |
+| Muhamad Daffa Ariftama          | A156BSY2130   | Cloud Computing    |
+| Rizki Nugroho                   | A182BSY2323   | Mobile Development |
+
 
 # Application Install
 
