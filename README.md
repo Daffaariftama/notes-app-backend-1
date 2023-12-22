@@ -57,7 +57,7 @@ Clone the repository on your machine. Open the project on your IDE and run it.
 | ![](media/screenshot/1.png) | ![](media/screenshot/2.png) | ![](media/screenshot/3.png) |
 | ![](media/screenshot/4.png) | ![](media/screenshot/5.png) | ![](media/screenshot/6.png) |
 | ![](media/screenshot/7.png) | ![](media/screenshot/8.png) | ![](media/screenshot/9.png) |
-| ![](media/screenshot/9.png) | ![](media/screenshot/10.png) | ![](media/screenshot/11.png) |
+| ![](media/screenshot/10.png) | ![](media/screenshot/11.png) | ![](media/screenshot/12.png) |
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
