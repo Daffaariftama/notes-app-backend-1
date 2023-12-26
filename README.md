@@ -26,7 +26,7 @@ This repository is the Capstone Project in [Bangkit Academy](https://grow.google
 
 ***You can Install and test latest Next Hotel app from below 👇***
 
-[![NEXTHOTEL](https://img.shields.io/badge/EduSafety✅-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Next-Carlos/NP/releases/download/v1.0.0/app-debug.apk)
+[![NEXTHOTEL](https://img.shields.io/badge/EduSafety✅-APK-red.svg?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1lYZLSWwolt2s2kXgIVKfFiouIz0Xmg4t/view?usp=sharing)
 
 
 ## Getting started
