@@ -1,6 +1,6 @@
 ![](media/logo.png)
 
-# **Edu Safety** 
+# **Edu Safeti** 
 
 #### Take You To The Next Level
 
